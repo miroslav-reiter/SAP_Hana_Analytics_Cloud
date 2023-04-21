@@ -11,6 +11,19 @@ SAP HANA, ktorý **bol uvedený na trh v roku 2010**, je moderné a vyspelé rie
 
 Kombináciou viacerých možností správy údajov – a okamžitou dostupnosťou všetkých typov údajov z jedného systému – SAP HANA zjednodušuje IT, pomáha podnikom inovovať a odstraňuje prekážky digitálnej transformácie.
 
+## Benefity SAP Hana
+Databáza SAP HANA ponúka oveľa viac výhod ako len ukladanie údajov, ich obsluhu a poskytovanie jediného zdroja pravdy. Top 10 výhod SAP HANA, lokálne aj so SAP HANA Cloud sú:
+1. **Kompletné:** Zahŕňa databázové služby, pokročilé analytické spracovanie, vývoj aplikácií a integráciu údajov
+1. **Rýchle:** Vo veľkých produkčných aplikáciách odozva na otázky za menej ako sekundu
+1. **Všestranné:** Podporuje hybridné transakčné a analytické spracovanie a mnoho typov údajov
+1. **Efektívne:** Poskytuje menšiu dátovú stopu bez duplikácie dát, pokročilú kompresiu a redukciu dátových síl
+1. **Výkonný:** Rýchle dopyty na veľké súbory údajov pomocou databázy s masívnym paralelným spracovaním (MPP).
+1. **Škálovateľnosť:** Ľahko sa prispôsobuje objemu údajov a súbežným používateľom v distribuovanom prostredí
+1. **Flexibilné:** Nasadenie vo verejnom alebo súkromnom cloude, vo viacerých cloudoch, na mieste alebo v hybridnom scenári
+1. **Jednoduché:** Poskytuje jedinú bránu ku všetkým vašim údajom s pokročilou virtualizáciou údajov
+1. **Inteligentné:** Rozširuje aplikácie a analýzy pomocou vstavaného strojového učenia (ML)
+1. **Zabezpečenie:** Ponúka komplexné zabezpečenie údajov a aplikácií, bezpečné nastavenie a ďalšie
+
 ## ⚓ Odkazy na kurzy
 [Prezenčné Kurzy SAP a ABAP](https://www.it-academy.sk/kategoria/sap/)  
 [Online Kurz SAP a ABAP](https://www.vita.sk/online-kurzy-sap-a-abap/)  

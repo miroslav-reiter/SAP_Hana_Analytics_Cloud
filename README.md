@@ -1,9 +1,13 @@
 # 💰 Materiály ku kurzu SAP Hana a SAP Analytics Cloud
 
+❓ Čo je to SAP Hana
+Je **stĺpcová relačná databáza v pamäti**, ktorá kombinuje **operácie OLAP** a **OLTP** do jedného systému. Potrebuje menej miesta na disku ako niektorí jeho konkurenti a je vysoko škálovateľný. SAP HANA je nasaditeľný **v priestoroch zákazníka**, **vo verejnom** alebo **súkromnom cloude** a v **hybridných scenároch**. Táto databáza je vhodná pre pokročilú analytickú a transakčnú prácu s rôznymi typmi údajov. Okrem správy databáz ponúka SAP HANA pokročilé analytické spracovanie, integráciu dát a vývoj aplikácií.
 
+**SAP HANA** (High-performance ANAlytic Appliance) je **multimodelová databáza**, ktorá ukladá údaje do pamäte namiesto toho, aby ich uchovávala na disku. Stĺpcovo orientovaný návrh databázy v pamäti vám umožňuje spúšťať pokročilé analýzy spolu s vysokorýchlostnými transakciami – v jednom systéme. To umožňuje spoločnostiam spracovávať obrovské množstvá údajov s takmer **nulovou latenciou**, vyhľadávať údaje v okamihu a stať sa skutočne založenými na údajoch. Uložením údajov do stĺpcových tabuliek v hlavnej pamäti a spojením online analytického spracovania (OLAP) a online transakčného spracovania (OLTP) je SAP HANA jedinečný – a výrazne rýchlejší ako iné systémy správy databáz (DBMS) na dnešnom trhu.
 
-❓ Čo je to Microsoft Power Query
+SAP HANA, ktorý **bol uvedený na trh v roku 2010**, je moderné a vyspelé riešenie, ktoré využívajú desiatky 10 0000 zákazníkov po celom svete. SAP HANA je však oveľa viac ako len databáza. Okrem toho, že SAP HANA funguje ako **databázový server**, ukladá a získava údaje požadované aplikáciami, ponúka pokročilé možnosti **vyhľadávania**, **analýzy** a **integrácie údajov** pre všetky typy údajov – **štruktúrované** aj **neštruktúrované**. Funguje tiež ako **aplikačný server** a pomáha spoločnostiam vytvárať inteligentné aplikácie založené na prehľadoch založené na **údajoch v reálnom čase**, výpočtovej technike v pamäti a **technológii strojového učenia**. Tieto funkcie sú dostupné v cloude aj lokálne.
 
+Kombináciou viacerých možností správy údajov – a okamžitou dostupnosťou všetkých typov údajov z jedného systému – SAP HANA zjednodušuje IT, pomáha podnikom inovovať a odstraňuje prekážky digitálnej transformácie.
 
 ## ⚓ Odkazy na kurzy
 [Prezenčné Kurzy Microsoft Excel a Power Query](https://www.it-academy.sk/kategoria/kancelarske-baliky/kurzy-excel/)  

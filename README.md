@@ -78,6 +78,55 @@ FROM
   "SFLIGHT"."SAIRPORT";
 ```
 
+```sql
+SELECT
+  city
+FROM
+  SCUSTOM;
+SELECT
+  name
+FROM
+  SCUSTOM;
+```
+
+```sql
+SELECT name, city
+from SFLIGHT.SCUSTOM
+order by name ASC, city ASC;
+```
+
+```sql
+SELECT distinct city
+from SFLIGHT.SCUSTOM
+order by city ASC;
+```
+
+```sql
+SELECT count(distinct city) "Pocet Miest"
+from SFLIGHT.SCUSTOM
+-- order by city ASC;
+```
+
+```sql
+SELECT name, count(name)
+from SFLIGHT.SCUSTOM
+group by name
+order by count(name) DESC;
+```
+
+```sql
+SELECT name, count(name) as Pocet_Objednavok
+from SFLIGHT.SCUSTOM
+group by name
+order by Pocet_Objednavok DESC;
+```
+
+```sql
+SELECT name
+from SFLIGHT.SCUSTOM
+limit 5;
+```
+
 ### Vytvorenie tabuľky (CREATE)
 ```sql
 ------------------------------------
